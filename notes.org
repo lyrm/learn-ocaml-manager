@@ -1,0 +1,22 @@
+* functions nécessaires
+** graph
+- find_vertex : sur quel critère ?
+- find_independent_vertice //  find_vertice Independent g
+- add_vertex
+- remove_vertex
+- add_edge
+- remove_edge
+- modify_edge
+- modify_vertex
+
+** vertex ?
+** edge ?
+
+** draw
+- position ? relative (pas en pixel ...)
+- sort_vertex => le coeur de l'algo
+- badness -> measure_badness ?
+- find_crossing_edges ?
+- find_longuest_path => minimal ?
+- find_departure / find_arrival
+- 
